@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/find-friends-react/static/css/main.65eb13b1.chunk.css",
+    "main.js": "/find-friends-react/static/js/main.17b90bec.chunk.js",
+    "main.js.map": "/find-friends-react/static/js/main.17b90bec.chunk.js.map",
+    "runtime-main.js": "/find-friends-react/static/js/runtime-main.8868614f.js",
+    "runtime-main.js.map": "/find-friends-react/static/js/runtime-main.8868614f.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/find-friends-react/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0b5b9267.chunk.js": "/find-friends-react/static/js/2.0b5b9267.chunk.js",
+    "static/js/2.0b5b9267.chunk.js.map": "/find-friends-react/static/js/2.0b5b9267.chunk.js.map",
+    "index.html": "/find-friends-react/index.html",
+    "precache-manifest.53782e34c19ff2cb40bfab9d18d7d0a4.js": "/find-friends-react/precache-manifest.53782e34c19ff2cb40bfab9d18d7d0a4.js",
+    "service-worker.js": "/find-friends-react/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/find-friends-react/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.65eb13b1.chunk.css.map": "/find-friends-react/static/css/main.65eb13b1.chunk.css.map",
+    "static/js/2.0b5b9267.chunk.js.LICENSE.txt": "/find-friends-react/static/js/2.0b5b9267.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/find-friends-react/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8868614f.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0b5b9267.chunk.js",
+    "static/css/main.65eb13b1.chunk.css",
+    "static/js/main.17b90bec.chunk.js"
+  ]
+}
