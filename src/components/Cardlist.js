@@ -2,6 +2,10 @@ import React from "react";
 import Cards from "./Cards";
 
 const Cardlist = ({ data }) => {
+  // if (true) {
+  //   throw new Error('Noooooooo!!');
+  // }
+
   return (
     <div>
       {data.map((user, i) => {
